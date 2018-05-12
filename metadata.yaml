@@ -1,0 +1,27 @@
+_repo: Stories-of-Old-Kentucky_37498
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 37498-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Purcell, Martha C. Grassham, Mrs.
+    alias: Purcell, Martha Grassham
+    birthdate: 1867
+    gutenberg_agent_id: '38876'
+    url: http://www.gutenberg.org/2009/agents/38876
+description: ''
+gutenberg_issued: '2011-09-21'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '37498'
+  lccn: '15005529'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Kentucky -- History'
+- !lcc 'F396'
+title: Stories of Old Kentucky
+url: http://www.gutenberg.org/ebooks/37498
